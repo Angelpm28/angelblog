@@ -1,0 +1,3181 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Cutting Edge\n"
+"POT-Creation-Date: 2014-01-09 02:02+0500\n"
+"PO-Revision-Date: 2014-01-09 02:02+0500\n"
+"Last-Translator: Spyropress <info@spyropress.com>\n"
+"Language-Team: Spyropress <support@spyropress.com>\n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:12 ../includes/spyropress-settings-theme.php:444
+msgid "Ooops... Error 404"
+msgstr ""
+
+#: ../404.php:13
+msgid "We`re sorry, but the page you are looking for doesn`t exist."
+msgstr ""
+
+#: ../404.php:14
+msgid "Please check entered address and try again <em>or</em>"
+msgstr ""
+
+#: ../404.php:15
+msgid "go to homepage"
+msgstr ""
+
+#: ../comments.php:8 ../includes/spyropress-settings-theme.php:352
+msgid "Comment"
+msgstr ""
+
+#: ../comments.php:9 ../includes/spyropress-settings-theme.php:360
+msgid "Comments"
+msgstr ""
+
+#: ../comments.php:10
+msgid "Comments are closed."
+msgstr ""
+
+#: ../comments.php:45
+msgid "Comment navigation"
+msgstr ""
+
+#: ../comments.php:46
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: ../comments.php:47
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: ../comments.php:66
+msgid "Name"
+msgstr ""
+
+#: ../comments.php:74 ../framework/builder/modules/contact-info/contact.php:65
+msgid "Email"
+msgstr ""
+
+#: ../comments.php:82
+msgid "Website"
+msgstr ""
+
+#: ../comments.php:104
+msgid "Post Comment"
+msgstr ""
+
+#: ../functions.php:83
+msgid "Primary"
+msgstr ""
+
+#: ../functions.php:84
+msgid "The main (primary) widget area, most often used as a sidebar."
+msgstr ""
+
+#: ../functions.php:87
+msgid "Secondary"
+msgstr ""
+
+#: ../functions.php:88
+msgid ""
+"The second most important widget area, most often used as a secondary "
+"sidebar."
+msgstr ""
+
+#: ../functions.php:96 ../functions.php:97
+msgid "Theme Options"
+msgstr ""
+
+#: ../page-content.php:14
+msgid "Pages:"
+msgstr ""
+
+#: ../search.php:5
+#, php-format
+msgid "Search results: <span>%s</span>"
+msgstr ""
+
+#: ../searchform.php:3
+msgid "Search.."
+msgstr ""
+
+#: ../searchform.php:4
+msgid "Go"
+msgstr ""
+
+#: ../framework/spyropress-ajax.php:44
+msgid "Success"
+msgstr ""
+
+#: ../framework/spyropress-ajax.php:47
+msgid "Error"
+msgstr ""
+
+#: ../framework/spyropress-ajax.php:96 ../framework/spyropress-ajax.php:126
+#: ../framework/spyropress-ajax.php:159
+msgid "false"
+msgstr ""
+
+#: ../framework/spyropress-ajax.php:285
+msgid "No oAuth setting provided."
+msgstr ""
+
+#: ../framework/spyropress-core-functions.php:199
+#: ../includes/spyropress-settings-theme.php:177
+#: ../templates/footer-content.php:16
+msgid "Twitter"
+msgstr ""
+
+#: ../framework/spyropress-core-functions.php:200
+#: ../includes/spyropress-settings-theme.php:171
+#: ../templates/footer-content.php:10
+msgid "Facebook"
+msgstr ""
+
+#: ../framework/spyropress-core-functions.php:201
+#: ../includes/spyropress-settings-theme.php:174
+#: ../templates/footer-content.php:13
+msgid "LinkedIn"
+msgstr ""
+
+#: ../framework/spyropress-functions.php:410
+#, php-format
+msgid "Search results for  %1$s from %2$s"
+msgstr ""
+
+#: ../framework/spyropress-functions.php:479
+msgid ""
+"You are using an <strong>outdated</strong> browser. Please <a href=\"http://"
+"browsehappy.com/\">upgrade your browser</a> or <a href=\"http://www.google."
+"com/chromeframe/?redirect=true\">activate Google Chrome Frame</a> to improve "
+"your experience."
+msgstr ""
+
+#: ../framework/spyropress-functions.php:488
+msgid "Powered by WordPress and the SpyroPress Framework"
+msgstr ""
+
+#: ../framework/spyropress-functions.php:502
+#: ../includes/spyropress-settings-theme.php:313
+msgid "Home"
+msgstr ""
+
+#: ../framework/spyropress-template.php:27
+#, php-format
+msgid "%d "
+msgid_plural "%d "
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../framework/spyropress-template.php:100
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../framework/spyropress.php:354
+msgid "Footer "
+msgstr ""
+
+#: ../framework/spyropress.php:355
+msgid "A widget area loaded in the footer of the site."
+msgstr ""
+
+#: ../framework/admin/docs-support.php:2
+msgid "Contact us"
+msgstr ""
+
+#: ../framework/admin/docs-support.php:3
+msgid "Need any help! contact us using any method given below."
+msgstr ""
+
+#: ../framework/admin/docs-support.php:7
+msgid "Support Forum"
+msgstr ""
+
+#: ../framework/admin/docs-support.php:8
+#, php-format
+msgid ""
+"We set up a ticketing system at %s, processing all requests at one place "
+"keeps and makes it simple, easier and even more effective for every "
+"customers to get quick help."
+msgstr ""
+
+#: ../framework/admin/docs-support.php:10
+msgid ""
+"All issues, requests and questions can be discussed and solved at one place. "
+"You only have to choose your related theme forum."
+msgstr ""
+
+#: ../framework/admin/docs-support.php:11
+msgid "Note:"
+msgstr ""
+
+#: ../framework/admin/docs-support.php:14
+msgid "1. You will only get access to our forums with a valid purchase key!"
+msgstr ""
+
+#: ../framework/admin/docs-support.php:17
+msgid "2. We cannot make any changes without compensation."
+msgstr ""
+
+#: ../framework/admin/docs-support.php:22
+msgid "Email Us or Call"
+msgstr ""
+
+#: ../framework/admin/docs-support.php:23
+msgid "If you need some extra care, please do not shy to contact us!"
+msgstr ""
+
+#: ../framework/admin/docs-support.php:25
+msgid "Email:"
+msgstr ""
+
+#: ../framework/admin/docs-support.php:26
+msgid "Skype:"
+msgstr ""
+
+#: ../framework/admin/page-dashboard.php:16
+#: ../framework/admin/spyropress-admin-init.php:227
+msgid "Dashboard"
+msgstr ""
+
+#: ../framework/admin/page-dashboard.php:18
+msgid ""
+"Thank you for using SpyroPress. SpyroPress will improve your overall web "
+"publishing experience."
+msgstr ""
+
+#: ../framework/admin/page-dashboard.php:25
+msgid "Theme Info"
+msgstr ""
+
+#: ../framework/admin/page-dashboard.php:30
+msgid "Framework Version:"
+msgstr ""
+
+#: ../framework/admin/page-dashboard.php:36
+msgid "Product Version:"
+msgstr ""
+
+#: ../framework/admin/page-dashboard.php:42
+msgid "Product Support:"
+msgstr ""
+
+#: ../framework/admin/page-dashboard.php:53
+#: ../framework/admin/page-theme-update.php:75
+msgid "Theme Changelog"
+msgstr ""
+
+#: ../framework/admin/page-status.php:5
+msgid "OK"
+msgstr ""
+
+#: ../framework/admin/page-status.php:5
+msgid "ERROR"
+msgstr ""
+
+#: ../framework/admin/page-status.php:6
+msgid "Writable"
+msgstr ""
+
+#: ../framework/admin/page-status.php:7
+msgid "Not Writable"
+msgstr ""
+
+#: ../framework/admin/page-status.php:10
+msgid "System Status! "
+msgstr ""
+
+#: ../framework/admin/page-status.php:14
+msgid "Framework Directory:"
+msgstr ""
+
+#: ../framework/admin/page-status.php:19
+msgid "CSS Directory:"
+msgstr ""
+
+#: ../framework/admin/page-theme-update.php:49
+#: ../framework/admin/spyropress-admin-init.php:248
+#: ../framework/admin/spyropress-admin-init.php:249
+msgid "Theme Updates"
+msgstr ""
+
+#: ../framework/admin/page-theme-update.php:56
+#, php-format
+msgid "The %1$s theme is currently up to date at version %2$s"
+msgstr ""
+
+#: ../framework/admin/page-theme-update.php:59
+msgid "Update Download and Instructions"
+msgstr ""
+
+#: ../framework/admin/page-theme-update.php:60
+#, php-format
+msgid ""
+"<p><strong>Important:</strong> make a backup of the %1$s theme inside your "
+"WordPress installation folder <code>%2$s </code> before attempting to update."
+"</p>\n"
+"        <p>If you didn`t make any changes to the theme files, you are free "
+"to overwrite them with the new files without risk of losing theme settings, "
+"pages, posts, etc, and backwards compatibility is guaranteed.</p>\n"
+"        <p>If you have made changes to the theme files, you will need to "
+"compare your changed files to the new files and merge them together.</p>"
+msgstr ""
+
+#: ../framework/admin/page-theme-update.php:79
+msgid "Framework Changelog"
+msgstr ""
+
+#: ../framework/admin/page-verification.php:41
+msgid "Welcome to SpyroPress! Update your Theme from the WordPress Dashboard"
+msgstr ""
+
+#: ../framework/admin/page-verification.php:44
+msgid ""
+"If you want to get update notifications for your themes and if you want to "
+"be able to update your theme from your WordPress backend you need to enter "
+"your item purchase code, themeforest account name and themeforest secret API "
+"Key below:"
+msgstr ""
+
+#: ../framework/admin/page-verification.php:55
+msgid "Themeforest Username"
+msgstr ""
+
+#: ../framework/admin/page-verification.php:59
+msgid "Enter the Name of the User you used to purchase this theme"
+msgstr ""
+
+#: ../framework/admin/page-verification.php:62
+msgid "Themeforest API Key"
+msgstr ""
+
+#: ../framework/admin/page-verification.php:66
+msgid "Enter the API Key of your Account here."
+msgstr ""
+
+#: ../framework/admin/page-verification.php:66
+msgid "You can find your it here"
+msgstr ""
+
+#: ../framework/admin/page-verification.php:69
+msgid "Item Purchase Code"
+msgstr ""
+
+#: ../framework/admin/page-verification.php:73
+msgid "Where do I get my Item purchase Code?"
+msgstr ""
+
+#: ../framework/admin/page-verification.php:88
+msgid "You are all set to go !."
+msgstr ""
+
+#: ../framework/admin/spyropress-admin-functions.php:17
+msgid "Documentation"
+msgstr ""
+
+#: ../framework/admin/spyropress-admin-functions.php:18
+msgid "Forum"
+msgstr ""
+
+#: ../framework/admin/spyropress-admin-functions.php:19
+msgid "Suggest a Feature"
+msgstr ""
+
+#: ../framework/admin/spyropress-admin-functions.php:20
+msgid "Showcase your Website"
+msgstr ""
+
+#: ../framework/admin/spyropress-admin-functions.php:75
+#, php-format
+msgid "Version %1$s"
+msgstr ""
+
+#: ../framework/admin/spyropress-admin-functions.php:93
+#, php-format
+msgid ""
+"<strong>There is a new version of the %s theme available.</strong> You have "
+"version %s installed. Update to version %s"
+msgstr ""
+
+#: ../framework/admin/spyropress-admin-functions.php:292
+msgid "Reset"
+msgstr ""
+
+#: ../framework/admin/spyropress-admin-init.php:219
+#: ../framework/admin/spyropress-admin-init.php:226
+msgid "Welcome to SpyroPress"
+msgstr ""
+
+#: ../framework/admin/spyropress-admin-init.php:220
+msgid "Spyropress"
+msgstr ""
+
+#: ../framework/admin/panel/panel_header.php:16
+msgid "More Themes"
+msgstr ""
+
+#: ../framework/admin/ui/background.php:90 ../framework/admin/ui/upload.php:28
+#: ../framework/admin/ui/upload.php:81
+msgid "Upload"
+msgstr ""
+
+#: ../framework/admin/ui/background.php:115
+msgid "Background Patterns"
+msgstr ""
+
+#: ../framework/admin/ui/background.php:161
+msgid "No Repeat"
+msgstr ""
+
+#: ../framework/admin/ui/background.php:162
+msgid "Repeat All"
+msgstr ""
+
+#: ../framework/admin/ui/background.php:163
+msgid "Repeat Horizontally"
+msgstr ""
+
+#: ../framework/admin/ui/background.php:164
+msgid "Repeat Vertically"
+msgstr ""
+
+#: ../framework/admin/ui/background.php:165
+#: ../framework/admin/ui/background.php:177
+#: ../framework/admin/ui/typography.php:271
+#: ../framework/admin/ui/typography.php:297
+#: ../framework/admin/ui/typography.php:311
+msgid "Inherit"
+msgstr ""
+
+#: ../framework/admin/ui/background.php:175
+msgid "Fixed"
+msgstr ""
+
+#: ../framework/admin/ui/background.php:176
+msgid "Scroll"
+msgstr ""
+
+#: ../framework/admin/ui/background.php:187
+msgid "Left Top"
+msgstr ""
+
+#: ../framework/admin/ui/background.php:188
+msgid "Left Center"
+msgstr ""
+
+#: ../framework/admin/ui/background.php:189
+msgid "Left Bottom"
+msgstr ""
+
+#: ../framework/admin/ui/background.php:190
+msgid "Center Top"
+msgstr ""
+
+#: ../framework/admin/ui/background.php:191
+msgid "Center Center"
+msgstr ""
+
+#: ../framework/admin/ui/background.php:192
+msgid "Center Bottom"
+msgstr ""
+
+#: ../framework/admin/ui/background.php:193
+msgid "Right Top"
+msgstr ""
+
+#: ../framework/admin/ui/background.php:194
+msgid "Right Center"
+msgstr ""
+
+#: ../framework/admin/ui/background.php:195
+msgid "Right Bottom"
+msgstr ""
+
+#: ../framework/admin/ui/border.php:52
+msgid "Top Border:"
+msgstr ""
+
+#: ../framework/admin/ui/border.php:54 ../framework/admin/ui/border.php:79
+#: ../framework/admin/ui/border.php:107 ../framework/admin/ui/border.php:132
+msgid "Width:"
+msgstr ""
+
+#: ../framework/admin/ui/border.php:77
+msgid "Bottom Border:"
+msgstr ""
+
+#: ../framework/admin/ui/border.php:105
+msgid "Left Border:"
+msgstr ""
+
+#: ../framework/admin/ui/border.php:130
+msgid "Right Border:"
+msgstr ""
+
+#: ../framework/admin/ui/border.php:205
+#: ../framework/admin/ui/typography.php:281
+#: ../framework/admin/ui/typography.php:307
+#: ../framework/utilities/options_settings.php:374
+msgid "None"
+msgstr ""
+
+#: ../framework/admin/ui/border.php:206
+msgid "Dotted"
+msgstr ""
+
+#: ../framework/admin/ui/border.php:207
+msgid "Dashed"
+msgstr ""
+
+#: ../framework/admin/ui/border.php:208
+msgid "Double"
+msgstr ""
+
+#: ../framework/admin/ui/border.php:209
+msgid "Groove"
+msgstr ""
+
+#: ../framework/admin/ui/border.php:210
+msgid "Hidden"
+msgstr ""
+
+#: ../framework/admin/ui/border.php:211
+msgid "Inset"
+msgstr ""
+
+#: ../framework/admin/ui/border.php:212
+msgid "Outset"
+msgstr ""
+
+#: ../framework/admin/ui/border.php:213
+msgid "Ridge"
+msgstr ""
+
+#: ../framework/admin/ui/border.php:214
+msgid "Solid"
+msgstr ""
+
+#: ../framework/admin/ui/import-export.php:13
+msgid "Import Options"
+msgstr ""
+
+#: ../framework/admin/ui/import-export.php:14
+msgid ""
+"Input your backup file below and hit import to restore your site options "
+"from backup."
+msgstr ""
+
+#: ../framework/admin/ui/import-export.php:24
+#: ../framework/admin/ui/import-export.php:72
+msgid ""
+"WARNING! This will overwrite any existing options, please proceed with "
+"caution!"
+msgstr ""
+
+#: ../framework/admin/ui/import-export.php:40
+msgid "Export Options"
+msgstr ""
+
+#: ../framework/admin/ui/import-export.php:41
+msgid ""
+"Here you can download or copy/paste into a blank file your theme current "
+"option settings. Keep this safe as you can use it as backup should anything "
+"go wrong. Or you can use it to restore your settings on this site (or any "
+"other site)."
+msgstr ""
+
+#: ../framework/admin/ui/import-export.php:56
+msgid "Download Options"
+msgstr ""
+
+#: ../framework/admin/ui/import-export.php:64
+msgid "Import Dummy Content: Posts, Pages, Categories"
+msgstr ""
+
+#: ../framework/admin/ui/import-export.php:65
+msgid ""
+"If you are new to wordpress or have problems creating posts or pages that "
+"look like the Theme Demo you can import dummy posts and pages here that will "
+"definitely help to understand how those tasks are done."
+msgstr ""
+
+#: ../framework/admin/ui/padder.php:29
+msgid "Top:"
+msgstr ""
+
+#: ../framework/admin/ui/padder.php:34
+msgid "Bottom:"
+msgstr ""
+
+#: ../framework/admin/ui/padder.php:39
+msgid "Left:"
+msgstr ""
+
+#: ../framework/admin/ui/padder.php:44
+msgid "Right:"
+msgstr ""
+
+#: ../framework/admin/ui/repeater.php:75 ../framework/admin/ui/upload.php:32
+msgid "Remove"
+msgstr ""
+
+#: ../framework/admin/ui/repeater.php:77
+msgid "Close"
+msgstr ""
+
+#: ../framework/admin/ui/repeater.php:87
+msgid "Add New"
+msgstr ""
+
+#: ../framework/admin/ui/typography.php:50
+msgid "Use Google Fonts Instead"
+msgstr ""
+
+#: ../framework/admin/ui/typography.php:57
+msgid "Font Family"
+msgstr ""
+
+#: ../framework/admin/ui/typography.php:84
+msgid "Google Webfont Family"
+msgstr ""
+
+#: ../framework/admin/ui/typography.php:89
+msgid "Google Webfont Variants"
+msgstr ""
+
+#: ../framework/admin/ui/typography.php:101
+msgid "Font Size:"
+msgstr ""
+
+#: ../framework/admin/ui/typography.php:108
+msgid ""
+"Pack my box with five dozen liquor jugs.<br />The quick brown fox jumps over "
+"the lazy dog."
+msgstr ""
+
+#: ../framework/admin/ui/typography.php:112
+msgid "Advance Settings"
+msgstr ""
+
+#: ../framework/admin/ui/typography.php:132
+msgid "Line Height:"
+msgstr ""
+
+#: ../framework/admin/ui/typography.php:137
+msgid "Letter Spacing:"
+msgstr ""
+
+#: ../framework/admin/ui/typography.php:143
+msgid "Text-Shadow"
+msgstr ""
+
+#: ../framework/admin/ui/typography.php:146
+msgid "h-Shadow:"
+msgstr ""
+
+#: ../framework/admin/ui/typography.php:151
+msgid "v-Shadow:"
+msgstr ""
+
+#: ../framework/admin/ui/typography.php:156
+msgid "Blur:"
+msgstr ""
+
+#: ../framework/admin/ui/typography.php:241
+msgid "Arial"
+msgstr ""
+
+#: ../framework/admin/ui/typography.php:242
+msgid "Georgia"
+msgstr ""
+
+#: ../framework/admin/ui/typography.php:243
+msgid "Helvetica"
+msgstr ""
+
+#: ../framework/admin/ui/typography.php:244
+msgid "Palatino"
+msgstr ""
+
+#: ../framework/admin/ui/typography.php:245
+msgid "Tahoma"
+msgstr ""
+
+#: ../framework/admin/ui/typography.php:246
+msgid "\"Times New Roman\", sans-serif"
+msgstr ""
+
+#: ../framework/admin/ui/typography.php:247
+msgid "Trebuchet"
+msgstr ""
+
+#: ../framework/admin/ui/typography.php:248
+msgid "Verdana"
+msgstr ""
+
+#: ../framework/admin/ui/typography.php:258
+#: ../framework/admin/ui/typography.php:294
+msgid "Normal"
+msgstr ""
+
+#: ../framework/admin/ui/typography.php:259
+msgid "Bold"
+msgstr ""
+
+#: ../framework/admin/ui/typography.php:260
+msgid "Bolder"
+msgstr ""
+
+#: ../framework/admin/ui/typography.php:261
+msgid "Lighter"
+msgstr ""
+
+#: ../framework/admin/ui/typography.php:262
+msgid "100"
+msgstr ""
+
+#: ../framework/admin/ui/typography.php:263
+msgid "200"
+msgstr ""
+
+#: ../framework/admin/ui/typography.php:264
+msgid "300"
+msgstr ""
+
+#: ../framework/admin/ui/typography.php:265
+msgid "400"
+msgstr ""
+
+#: ../framework/admin/ui/typography.php:266
+msgid "500"
+msgstr ""
+
+#: ../framework/admin/ui/typography.php:267
+msgid "600"
+msgstr ""
+
+#: ../framework/admin/ui/typography.php:268
+msgid "700"
+msgstr ""
+
+#: ../framework/admin/ui/typography.php:269
+msgid "800"
+msgstr ""
+
+#: ../framework/admin/ui/typography.php:270
+msgid "900"
+msgstr ""
+
+#: ../framework/admin/ui/typography.php:282
+msgid "UpperCase"
+msgstr ""
+
+#: ../framework/admin/ui/typography.php:283
+msgid "LowerCase"
+msgstr ""
+
+#: ../framework/admin/ui/typography.php:284
+msgid "Capitalize"
+msgstr ""
+
+#: ../framework/admin/ui/typography.php:295
+msgid "Italic"
+msgstr ""
+
+#: ../framework/admin/ui/typography.php:296
+msgid "Oblique"
+msgstr ""
+
+#: ../framework/admin/ui/typography.php:308
+msgid "Line-Through"
+msgstr ""
+
+#: ../framework/admin/ui/typography.php:309
+msgid "Overline"
+msgstr ""
+
+#: ../framework/admin/ui/typography.php:310
+msgid "Underline"
+msgstr ""
+
+#: ../framework/admin/ui/upload.php:80
+msgid "Clear Gallery"
+msgstr ""
+
+#: ../framework/builder/spyropress-builder-init.php:98
+msgid "Templates"
+msgstr ""
+
+#: ../framework/builder/spyropress-builder-init.php:181
+msgid "Canvas"
+msgstr ""
+
+#: ../framework/builder/spyropress-builder-init.php:188
+#: ../framework/classes/class-tgm-plugin-activation.php:1334
+msgid "Type"
+msgstr ""
+
+#: ../framework/builder/spyropress-builder-init.php:200
+msgid "Assigned To"
+msgstr ""
+
+#: ../framework/builder/spyropress-builder-init.php:211
+msgid "Blocks"
+msgstr ""
+
+#: ../framework/builder/spyropress-builder-init.php:218
+msgid "Header"
+msgstr ""
+
+#: ../framework/builder/spyropress-builder-init.php:226
+msgid "Footer"
+msgstr ""
+
+#: ../framework/builder/spyropress-builder-init.php:234
+msgid "Template Setting"
+msgstr ""
+
+#: ../framework/builder/spyropress-builder-init.php:277
+#: ../includes/spyropress-settings-theme.php:438
+msgid "Error 404"
+msgstr ""
+
+#: ../framework/builder/spyropress-builder-init.php:278
+#: ../framework/widgets/spyropress-widget-init.php:264
+msgid "Home Page"
+msgstr ""
+
+#: ../framework/builder/spyropress-builder-init.php:279
+#: ../framework/widgets/spyropress-widget-init.php:268
+msgid "Front Page"
+msgstr ""
+
+#: ../framework/builder/spyropress-builder-init.php:280
+msgid "Generic Page"
+msgstr ""
+
+#: ../framework/builder/spyropress-builder-init.php:281
+msgid "Generic Single Post"
+msgstr ""
+
+#: ../framework/builder/spyropress-builder-init.php:282
+msgid "Search Result"
+msgstr ""
+
+#: ../framework/builder/spyropress-builder-init.php:283
+msgid "Generic Archive"
+msgstr ""
+
+#: ../framework/builder/spyropress-builder-init.php:284
+msgid "Generic Category"
+msgstr ""
+
+#: ../framework/builder/spyropress-builder-init.php:285
+msgid "Generic Tag"
+msgstr ""
+
+#: ../framework/builder/spyropress-builder-init.php:286
+msgid "Author"
+msgstr ""
+
+#: ../framework/builder/spyropress-builder-init.php:290
+msgid "Special Pages"
+msgstr ""
+
+#: ../framework/builder/spyropress-builder-init.php:301
+msgid "Post Types"
+msgstr ""
+
+#: ../framework/builder/spyropress-builder-init.php:312
+msgid "Date Archive"
+msgstr ""
+
+#: ../framework/builder/spyropress-builder-init.php:324
+msgid "Taxonomies"
+msgstr ""
+
+#: ../framework/builder/spyropress-builder-init.php:328
+msgid "Singular"
+msgstr ""
+
+#: ../framework/builder/spyropress-builder-init.php:342
+msgid "Blank"
+msgstr ""
+
+#: ../framework/builder/spyropress-builder-init.php:343
+msgid "Theme Default"
+msgstr ""
+
+#: ../framework/builder/spyropress-builder-init.php:364
+msgid "Partial Layouts"
+msgstr ""
+
+#: ../framework/builder/spyropress-builder-init.php:388
+msgid "Layouts"
+msgstr ""
+
+#: ../framework/builder/spyropress-builder-init.php:392
+msgid "Select a Layout"
+msgstr ""
+
+#: ../framework/builder/spyropress-builder-init.php:407
+msgid "SpyroPress: Layout Selection"
+msgstr ""
+
+#: ../framework/builder/spyropress-row-functions.php:64
+msgid "Row Saved"
+msgstr ""
+
+#: ../framework/builder/spyropress-row-functions.php:64
+#: ../framework/builder/spyropress-row-functions.php:127
+msgid "Operation fails"
+msgstr ""
+
+#: ../framework/builder/spyropress-row-functions.php:65
+msgid "Oops! something goes wrong while creating the new row."
+msgstr ""
+
+#: ../framework/builder/spyropress-row-functions.php:91
+msgid "Row Deleted"
+msgstr ""
+
+#: ../framework/builder/spyropress-row-functions.php:91
+msgid "Operation fails."
+msgstr ""
+
+#: ../framework/builder/spyropress-row-functions.php:92
+msgid "Row deleted successfully."
+msgstr ""
+
+#: ../framework/builder/spyropress-row-functions.php:92
+msgid "Oops! something goes wrong while deleting the row."
+msgstr ""
+
+#: ../framework/builder/spyropress-row-functions.php:100
+msgid "Row not exists"
+msgstr ""
+
+#: ../framework/builder/spyropress-row-functions.php:101
+#, php-format
+msgid "Row: %s doesn't exists."
+msgstr ""
+
+#: ../framework/builder/spyropress-row-functions.php:127
+#: ../framework/builder/spyropress-row-functions.php:128
+msgid "Row Order Updated"
+msgstr ""
+
+#: ../framework/builder/spyropress-row-functions.php:128
+msgid "Oops! something goes wrong while updating rows order."
+msgstr ""
+
+#: ../framework/builder/modules/accordion/accordion.php:18
+msgid "Accordion Builder."
+msgstr ""
+
+#: ../framework/builder/modules/accordion/accordion.php:20
+msgid "Accordions"
+msgstr ""
+
+#: ../framework/builder/modules/accordion/accordion.php:25
+msgid "Accordion"
+msgstr ""
+
+#: ../framework/builder/modules/accordion/accordion.php:32
+msgid "Header Title"
+msgstr ""
+
+#: ../framework/builder/modules/accordion/accordion.php:38
+#: ../framework/builder/modules/awards-list/awards-list.php:26
+#: ../framework/builder/modules/gallery/gallery.php:34
+#: ../framework/builder/modules/gmap/gmap.php:40
+#: ../framework/builder/modules/our-team/our-team.php:28
+#: ../framework/builder/modules/service-header/service-header.php:26
+#: ../framework/builder/modules/stats/stats.php:28
+#: ../includes/spyropress-settings-theme.php:443
+#: ../includes/components/bucket/module/bucket.php:25
+#: ../includes/widgets/text/text.php:33
+msgid "Title"
+msgstr ""
+
+#: ../framework/builder/modules/accordion/accordion.php:44
+msgid "Sub Title"
+msgstr ""
+
+#: ../framework/builder/modules/accordion/accordion.php:50
+#: ../framework/builder/modules/intro-text/intro-text.php:43
+#: ../framework/builder/modules/parallax/parallax.php:55
+#: ../includes/widgets/text/text.php:39
+msgid "Content"
+msgstr ""
+
+#: ../framework/builder/modules/accordion/accordion.php:57
+#: ../framework/builder/modules/parallax/parallax.php:48
+#: ../framework/builder/modules/service-header/service-header.php:38
+#: ../includes/spyropress-settings-theme.php:98
+msgid "Image"
+msgstr ""
+
+#: ../framework/builder/modules/awards-list/awards-list.php:18
+msgid "List your awards beautifully"
+msgstr ""
+
+#: ../framework/builder/modules/awards-list/awards-list.php:20
+msgid "Awards listing"
+msgstr ""
+
+#: ../framework/builder/modules/awards-list/awards-list.php:32
+msgid "Awards"
+msgstr ""
+
+#: ../framework/builder/modules/awards-list/awards-list.php:38
+#: ../framework/builder/modules/heading/heading.php:21
+msgid "Heading"
+msgstr ""
+
+#: ../framework/builder/modules/awards-list/awards-list.php:44
+#: ../framework/builder/modules/awards-list/awards-list.php:50
+msgid "Listing"
+msgstr ""
+
+#: ../framework/builder/modules/contact-info/contact.php:23
+msgid "Quickly add contact info"
+msgstr ""
+
+#: ../framework/builder/modules/contact-info/contact.php:25
+msgid "Contact Info"
+msgstr ""
+
+#: ../framework/builder/modules/contact-info/contact.php:30
+#: ../framework/builder/modules/gmap/gmap.php:52
+msgid "Address"
+msgstr ""
+
+#: ../framework/builder/modules/contact-info/contact.php:35
+msgid "Street"
+msgstr ""
+
+#: ../framework/builder/modules/contact-info/contact.php:40
+msgid "City"
+msgstr ""
+
+#: ../framework/builder/modules/contact-info/contact.php:45
+msgid "Country"
+msgstr ""
+
+#: ../framework/builder/modules/contact-info/contact.php:50
+msgid "ZipCode"
+msgstr ""
+
+#: ../framework/builder/modules/contact-info/contact.php:60
+msgid "Contact Details"
+msgstr ""
+
+#: ../framework/builder/modules/contact-info/contact.php:70
+msgid "Phone"
+msgstr ""
+
+#: ../framework/builder/modules/contact-info/contact.php:75
+msgid "Skype"
+msgstr ""
+
+#: ../framework/builder/modules/contact-info/contact.php:85
+msgid "Timing"
+msgstr ""
+
+#: ../framework/builder/modules/contact-info/contact.php:90
+msgid "Mon-Fri"
+msgstr ""
+
+#: ../framework/builder/modules/contact-info/contact.php:93
+#: ../framework/builder/modules/contact-info/contact.php:99
+msgid "Seperate start and end time with comma"
+msgstr ""
+
+#: ../framework/builder/modules/contact-info/contact.php:96
+msgid "Sat"
+msgstr ""
+
+#: ../framework/builder/modules/contact-info/contact.php:102
+msgid "Sunday"
+msgstr ""
+
+#: ../framework/builder/modules/embed-video/embed-video.php:17
+msgid "Add video url to embed them"
+msgstr ""
+
+#: ../framework/builder/modules/embed-video/embed-video.php:19
+msgid "Embed Videos"
+msgstr ""
+
+#: ../framework/builder/modules/gallery/gallery.php:21
+msgid "Gallery Builder"
+msgstr ""
+
+#: ../framework/builder/modules/gallery/gallery.php:23
+msgid "Gallery"
+msgstr ""
+
+#: ../framework/builder/modules/gallery/gallery.php:40
+msgid "Photo - Thumbnail"
+msgstr ""
+
+#: ../framework/builder/modules/gallery/gallery.php:46
+msgid "Photo - Large"
+msgstr ""
+
+#: ../framework/builder/modules/gmap/gmap.php:17
+msgid "Add google map markers on google map esaily."
+msgstr ""
+
+#: ../framework/builder/modules/gmap/gmap.php:19
+msgid "Google Map Markers"
+msgstr ""
+
+#: ../framework/builder/modules/gmap/gmap.php:26
+msgid "Markers Location"
+msgstr ""
+
+#: ../framework/builder/modules/gmap/gmap.php:46
+#: ../framework/builder/modules/service-header/service-header.php:44
+msgid "Description"
+msgstr ""
+
+#: ../framework/builder/modules/gmap/gmap.php:58
+#: ../framework/builder/modules/gmap/gmap.php:77
+msgid "Latitude"
+msgstr ""
+
+#: ../framework/builder/modules/gmap/gmap.php:64
+#: ../framework/builder/modules/gmap/gmap.php:83
+msgid "Longitude"
+msgstr ""
+
+#: ../framework/builder/modules/gmap/gmap.php:72
+msgid "Initial Location"
+msgstr ""
+
+#: ../framework/builder/modules/gmap/gmap.php:95
+msgid "Zoom Level"
+msgstr ""
+
+#: ../framework/builder/modules/gmap/gmap.php:104
+msgid "Map Height"
+msgstr ""
+
+#: ../framework/builder/modules/gmap/gmap.php:112
+msgid "Map Type"
+msgstr ""
+
+#: ../framework/builder/modules/heading/heading.php:19
+msgid "Add headings into the page layout wherever needed."
+msgstr ""
+
+#: ../framework/builder/modules/heading/heading.php:27
+msgid "Heading Text"
+msgstr ""
+
+#: ../framework/builder/modules/heading/heading.php:33
+msgid "Sub Heading"
+msgstr ""
+
+#: ../framework/builder/modules/img-list/img-list.php:20
+msgid "Display a list of images"
+msgstr ""
+
+#: ../framework/builder/modules/img-list/img-list.php:22
+msgid "Image List"
+msgstr ""
+
+#: ../framework/builder/modules/img-list/img-list.php:28
+msgid "Images"
+msgstr ""
+
+#: ../framework/builder/modules/img-list/img-list.php:33
+#: ../framework/builder/modules/our-team/our-team.php:46
+msgid "Upload Picture"
+msgstr ""
+
+#: ../framework/builder/modules/intro-text/intro-text.php:18
+msgid "A lightweight component for introduction text."
+msgstr ""
+
+#: ../framework/builder/modules/intro-text/intro-text.php:20
+msgid "Introduction Text"
+msgstr ""
+
+#: ../framework/builder/modules/intro-text/intro-text.php:36
+msgid "Styles"
+msgstr ""
+
+#: ../framework/builder/modules/our-team/our-team.php:20
+msgid "Display a list of team."
+msgstr ""
+
+#: ../framework/builder/modules/our-team/our-team.php:22
+msgid "Our Team"
+msgstr ""
+
+#: ../framework/builder/modules/our-team/our-team.php:34
+msgid "Mate"
+msgstr ""
+
+#: ../framework/builder/modules/our-team/our-team.php:40
+msgid "Full Name"
+msgstr ""
+
+#: ../framework/builder/modules/our-team/our-team.php:52
+#: ../includes/widgets/text/text.php:26
+msgid "About"
+msgstr ""
+
+#: ../framework/builder/modules/parallax/parallax.php:21
+msgid "Create parallax in differnet style"
+msgstr ""
+
+#: ../framework/builder/modules/parallax/parallax.php:23
+msgid "Parallax Area"
+msgstr ""
+
+#: ../framework/builder/modules/parallax/parallax.php:62
+msgid "Background"
+msgstr ""
+
+#: ../framework/builder/modules/rich-text/rich-text.php:19
+msgid "Provides a WYSIWYG editor."
+msgstr ""
+
+#: ../framework/builder/modules/rich-text/rich-text.php:21
+msgid "Rich Text"
+msgstr ""
+
+#: ../framework/builder/modules/row-options/row-options.php:17
+msgid "Set row options and styling here."
+msgstr ""
+
+#: ../framework/builder/modules/row-options/row-options.php:19
+msgid "Row Options"
+msgstr ""
+
+#: ../framework/builder/modules/service-header/service-header.php:18
+msgid "Service headings for service tables"
+msgstr ""
+
+#: ../framework/builder/modules/service-header/service-header.php:20
+msgid "Service Header"
+msgstr ""
+
+#: ../framework/builder/modules/service-header/service-header.php:32
+msgid "Sub-Title"
+msgstr ""
+
+#: ../framework/builder/modules/stats/stats.php:20
+msgid "Display your stats"
+msgstr ""
+
+#: ../framework/builder/modules/stats/stats.php:22
+#: ../framework/builder/modules/stats/stats.php:34
+msgid "Stats"
+msgstr ""
+
+#: ../framework/builder/modules/stats/stats.php:41
+msgid "Label"
+msgstr ""
+
+#: ../framework/builder/modules/stats/stats.php:47
+msgid "Count"
+msgstr ""
+
+#: ../framework/builder/modules/stats/stats.php:53
+msgid "Upload Image"
+msgstr ""
+
+#: ../framework/builder/rc-templates/bs-col-templates.php:21
+#: ../framework/builder/rc-templates/bs3-col-templates.php:21
+#: ../framework/builder/rc-templates/fd3-col-templates.php:21
+#: ../framework/builder/rc-templates/skt-col-templates.php:21
+msgid "1/1 Column"
+msgstr ""
+
+#: ../framework/builder/rc-templates/bs-col-templates.php:22
+#: ../framework/builder/rc-templates/bs3-col-templates.php:22
+#: ../framework/builder/rc-templates/fd3-col-templates.php:22
+#: ../framework/builder/rc-templates/skt-col-templates.php:22
+msgid "Full width column"
+msgstr ""
+
+#: ../framework/builder/rc-templates/bs-col-templates.php:38
+#: ../framework/builder/rc-templates/bs3-col-templates.php:38
+#: ../framework/builder/rc-templates/fd3-col-templates.php:38
+#: ../framework/builder/rc-templates/skt-col-templates.php:38
+msgid "1/2 Column"
+msgstr ""
+
+#: ../framework/builder/rc-templates/bs-col-templates.php:39
+#: ../framework/builder/rc-templates/bs3-col-templates.php:39
+#: ../framework/builder/rc-templates/fd3-col-templates.php:39
+msgid "Half width column."
+msgstr ""
+
+#: ../framework/builder/rc-templates/bs-col-templates.php:55
+#: ../framework/builder/rc-templates/bs3-col-templates.php:55
+#: ../framework/builder/rc-templates/fd3-col-templates.php:55
+#: ../framework/builder/rc-templates/skt-col-templates.php:55
+msgid "1/3 Column"
+msgstr ""
+
+#: ../framework/builder/rc-templates/bs-col-templates.php:56
+#: ../framework/builder/rc-templates/bs3-col-templates.php:56
+#: ../framework/builder/rc-templates/fd3-col-templates.php:56
+msgid "One-Third width column"
+msgstr ""
+
+#: ../framework/builder/rc-templates/bs-col-templates.php:72
+#: ../framework/builder/rc-templates/bs3-col-templates.php:72
+#: ../framework/builder/rc-templates/fd3-col-templates.php:72
+#: ../framework/builder/rc-templates/skt-col-templates.php:72
+msgid "1/4 Column"
+msgstr ""
+
+#: ../framework/builder/rc-templates/bs-col-templates.php:73
+#: ../framework/builder/rc-templates/bs3-col-templates.php:73
+#: ../framework/builder/rc-templates/fd3-col-templates.php:73
+#: ../framework/builder/rc-templates/skt-col-templates.php:73
+msgid "One-Fourth width column"
+msgstr ""
+
+#: ../framework/builder/rc-templates/bs-col-templates.php:89
+#: ../framework/builder/rc-templates/bs3-col-templates.php:89
+#: ../framework/builder/rc-templates/fd3-col-templates.php:89
+msgid "1/6 Column"
+msgstr ""
+
+#: ../framework/builder/rc-templates/bs-col-templates.php:90
+#: ../framework/builder/rc-templates/bs3-col-templates.php:90
+#: ../framework/builder/rc-templates/fd3-col-templates.php:90
+msgid "One-Sixth width column"
+msgstr ""
+
+#: ../framework/builder/rc-templates/bs-col-templates.php:106
+#: ../framework/builder/rc-templates/bs3-col-templates.php:106
+#: ../framework/builder/rc-templates/fd3-col-templates.php:106
+msgid "2/3 Column"
+msgstr ""
+
+#: ../framework/builder/rc-templates/bs-col-templates.php:107
+#: ../framework/builder/rc-templates/bs3-col-templates.php:107
+#: ../framework/builder/rc-templates/fd3-col-templates.php:107
+msgid "Two-Third width column"
+msgstr ""
+
+#: ../framework/builder/rc-templates/bs-col-templates.php:123
+#: ../framework/builder/rc-templates/bs3-col-templates.php:123
+#: ../framework/builder/rc-templates/fd3-col-templates.php:123
+#: ../framework/builder/rc-templates/skt-col-templates.php:106
+msgid "3/4 Column"
+msgstr ""
+
+#: ../framework/builder/rc-templates/bs-col-templates.php:124
+#: ../framework/builder/rc-templates/bs3-col-templates.php:124
+#: ../framework/builder/rc-templates/fd3-col-templates.php:124
+#: ../framework/builder/rc-templates/skt-col-templates.php:107
+msgid "Three-Fourth width column"
+msgstr ""
+
+#: ../framework/builder/rc-templates/bs-col-templates.php:140
+#: ../framework/builder/rc-templates/bs3-col-templates.php:140
+#: ../framework/builder/rc-templates/fd3-col-templates.php:140
+msgid "5/6 Column"
+msgstr ""
+
+#: ../framework/builder/rc-templates/bs-col-templates.php:141
+#: ../framework/builder/rc-templates/bs3-col-templates.php:141
+#: ../framework/builder/rc-templates/fd3-col-templates.php:141
+msgid "Five-Sixth width column"
+msgstr ""
+
+#: ../framework/builder/rc-templates/bs-col-templates.php:157
+#: ../framework/builder/rc-templates/bs3-col-templates.php:157
+#: ../framework/builder/rc-templates/fd3-col-templates.php:157
+#: ../framework/builder/rc-templates/skt-col-templates.php:242
+msgid "Span11"
+msgstr ""
+
+#: ../framework/builder/rc-templates/bs-col-templates.php:158
+#: ../framework/builder/rc-templates/bs3-col-templates.php:158
+#: ../framework/builder/rc-templates/fd3-col-templates.php:158
+#: ../framework/builder/rc-templates/skt-col-templates.php:243
+msgid "11 columns of grid"
+msgstr ""
+
+#: ../framework/builder/rc-templates/bs-col-templates.php:174
+#: ../framework/builder/rc-templates/bs3-col-templates.php:174
+#: ../framework/builder/rc-templates/fd3-col-templates.php:174
+#: ../framework/builder/rc-templates/skt-col-templates.php:208
+msgid "Span7"
+msgstr ""
+
+#: ../framework/builder/rc-templates/bs-col-templates.php:175
+#: ../framework/builder/rc-templates/bs3-col-templates.php:175
+#: ../framework/builder/rc-templates/fd3-col-templates.php:175
+#: ../framework/builder/rc-templates/skt-col-templates.php:209
+msgid "7 columns of grid"
+msgstr ""
+
+#: ../framework/builder/rc-templates/bs-col-templates.php:191
+#: ../framework/builder/rc-templates/bs3-col-templates.php:191
+#: ../framework/builder/rc-templates/fd3-col-templates.php:191
+#: ../framework/builder/rc-templates/skt-col-templates.php:191
+msgid "Span5"
+msgstr ""
+
+#: ../framework/builder/rc-templates/bs-col-templates.php:192
+#: ../framework/builder/rc-templates/bs3-col-templates.php:192
+#: ../framework/builder/rc-templates/fd3-col-templates.php:192
+#: ../framework/builder/rc-templates/skt-col-templates.php:192
+msgid "5 columns of grid"
+msgstr ""
+
+#: ../framework/builder/rc-templates/bs-col-templates.php:208
+#: ../framework/builder/rc-templates/bs3-col-templates.php:208
+#: ../framework/builder/rc-templates/fd3-col-templates.php:208
+#: ../framework/builder/rc-templates/skt-col-templates.php:157
+msgid "Span1"
+msgstr ""
+
+#: ../framework/builder/rc-templates/bs-col-templates.php:209
+#: ../framework/builder/rc-templates/bs3-col-templates.php:209
+#: ../framework/builder/rc-templates/fd3-col-templates.php:209
+#: ../framework/builder/rc-templates/skt-col-templates.php:158
+msgid "1 column of grid"
+msgstr ""
+
+#: ../framework/builder/rc-templates/bs-row-templates.php:20
+#: ../framework/builder/rc-templates/bs3-row-templates.php:20
+#: ../framework/builder/rc-templates/fd3-row-templates.php:20
+#: ../framework/builder/rc-templates/skt-row-templates.php:20
+msgid "1/1"
+msgstr ""
+
+#: ../framework/builder/rc-templates/bs-row-templates.php:21
+#: ../framework/builder/rc-templates/bs3-row-templates.php:21
+#: ../framework/builder/rc-templates/fd3-row-templates.php:21
+#: ../framework/builder/rc-templates/skt-row-templates.php:21
+msgid "Full width"
+msgstr ""
+
+#: ../framework/builder/rc-templates/bs-row-templates.php:39
+#: ../framework/builder/rc-templates/bs-row-templates.php:102
+#: ../framework/builder/rc-templates/bs3-row-templates.php:39
+#: ../framework/builder/rc-templates/bs3-row-templates.php:102
+#: ../framework/builder/rc-templates/fd3-row-templates.php:39
+#: ../framework/builder/rc-templates/fd3-row-templates.php:102
+#: ../framework/builder/rc-templates/skt-row-templates.php:39
+msgid "1/2"
+msgstr ""
+
+#: ../framework/builder/rc-templates/bs-row-templates.php:40
+#: ../framework/builder/rc-templates/bs3-row-templates.php:40
+#: ../framework/builder/rc-templates/fd3-row-templates.php:40
+#: ../framework/builder/rc-templates/skt-row-templates.php:40
+msgid "2 1/2 columns"
+msgstr ""
+
+#: ../framework/builder/rc-templates/bs-row-templates.php:59
+#: ../framework/builder/rc-templates/bs3-row-templates.php:59
+#: ../framework/builder/rc-templates/fd3-row-templates.php:59
+#: ../framework/builder/rc-templates/skt-row-templates.php:80
+msgid "1/4"
+msgstr ""
+
+#: ../framework/builder/rc-templates/bs-row-templates.php:60
+#: ../framework/builder/rc-templates/bs3-row-templates.php:60
+#: ../framework/builder/rc-templates/fd3-row-templates.php:60
+msgid "3 1/4 columns"
+msgstr ""
+
+#: ../framework/builder/rc-templates/bs-row-templates.php:80
+#: ../framework/builder/rc-templates/bs3-row-templates.php:80
+#: ../framework/builder/rc-templates/fd3-row-templates.php:80
+#: ../framework/builder/rc-templates/skt-row-templates.php:59
+msgid "1/3"
+msgstr ""
+
+#: ../framework/builder/rc-templates/bs-row-templates.php:81
+#: ../framework/builder/rc-templates/bs3-row-templates.php:81
+#: ../framework/builder/rc-templates/fd3-row-templates.php:81
+msgid "4 1/3 columns"
+msgstr ""
+
+#: ../framework/builder/rc-templates/bs-row-templates.php:103
+#: ../framework/builder/rc-templates/bs3-row-templates.php:103
+#: ../framework/builder/rc-templates/fd3-row-templates.php:103
+msgid "6 1/6 columns"
+msgstr ""
+
+#: ../framework/builder/rc-templates/bs-row-templates.php:126
+#: ../framework/builder/rc-templates/bs3-row-templates.php:126
+#: ../framework/builder/rc-templates/fd3-row-templates.php:126
+msgid "1/3 Left Sidebar"
+msgstr ""
+
+#: ../framework/builder/rc-templates/bs-row-templates.php:127
+#: ../framework/builder/rc-templates/bs3-row-templates.php:127
+#: ../framework/builder/rc-templates/fd3-row-templates.php:127
+msgid "1/3 + 2/3"
+msgstr ""
+
+#: ../framework/builder/rc-templates/bs-row-templates.php:146
+#: ../framework/builder/rc-templates/bs3-row-templates.php:146
+#: ../framework/builder/rc-templates/fd3-row-templates.php:146
+msgid "1/3 Right Sidebar"
+msgstr ""
+
+#: ../framework/builder/rc-templates/bs-row-templates.php:147
+#: ../framework/builder/rc-templates/bs3-row-templates.php:147
+#: ../framework/builder/rc-templates/fd3-row-templates.php:147
+msgid "2/3 + 1/3"
+msgstr ""
+
+#: ../framework/builder/rc-templates/bs-row-templates.php:166
+#: ../framework/builder/rc-templates/bs3-row-templates.php:166
+#: ../framework/builder/rc-templates/fd3-row-templates.php:166
+msgid "1/4 Left Sidebar"
+msgstr ""
+
+#: ../framework/builder/rc-templates/bs-row-templates.php:167
+#: ../framework/builder/rc-templates/bs3-row-templates.php:167
+#: ../framework/builder/rc-templates/fd3-row-templates.php:167
+#: ../framework/builder/rc-templates/skt-row-templates.php:129
+msgid "1/4 + 3/4"
+msgstr ""
+
+#: ../framework/builder/rc-templates/bs-row-templates.php:186
+#: ../framework/builder/rc-templates/bs3-row-templates.php:186
+#: ../framework/builder/rc-templates/fd3-row-templates.php:186
+msgid "1/4 Right Sidebar"
+msgstr ""
+
+#: ../framework/builder/rc-templates/bs-row-templates.php:187
+#: ../framework/builder/rc-templates/bs3-row-templates.php:187
+#: ../framework/builder/rc-templates/fd3-row-templates.php:187
+#: ../framework/builder/rc-templates/skt-row-templates.php:149
+msgid "3/4 + 1/4"
+msgstr ""
+
+#: ../framework/builder/rc-templates/skt-col-templates.php:39
+msgid "Half width column"
+msgstr ""
+
+#: ../framework/builder/rc-templates/skt-col-templates.php:56
+msgid "One Third column"
+msgstr ""
+
+#: ../framework/builder/rc-templates/skt-col-templates.php:89
+msgid "1/8 Column"
+msgstr ""
+
+#: ../framework/builder/rc-templates/skt-col-templates.php:90
+msgid "One-Eight width column"
+msgstr ""
+
+#: ../framework/builder/rc-templates/skt-col-templates.php:123
+msgid "3/8 Column"
+msgstr ""
+
+#: ../framework/builder/rc-templates/skt-col-templates.php:124
+msgid "Three-Eigth width column"
+msgstr ""
+
+#: ../framework/builder/rc-templates/skt-col-templates.php:140
+msgid "5/8 Column"
+msgstr ""
+
+#: ../framework/builder/rc-templates/skt-col-templates.php:141
+msgid "Five-Eigth width column"
+msgstr ""
+
+#: ../framework/builder/rc-templates/skt-col-templates.php:174
+msgid "Span3"
+msgstr ""
+
+#: ../framework/builder/rc-templates/skt-col-templates.php:175
+msgid "3 columns of grid"
+msgstr ""
+
+#: ../framework/builder/rc-templates/skt-col-templates.php:225
+msgid "Span9"
+msgstr ""
+
+#: ../framework/builder/rc-templates/skt-col-templates.php:226
+msgid "9 columns of grid"
+msgstr ""
+
+#: ../framework/builder/rc-templates/skt-col-templates.php:259
+msgid "Span13"
+msgstr ""
+
+#: ../framework/builder/rc-templates/skt-col-templates.php:260
+msgid "13 columns of grid"
+msgstr ""
+
+#: ../framework/builder/rc-templates/skt-col-templates.php:276
+msgid "Span14"
+msgstr ""
+
+#: ../framework/builder/rc-templates/skt-col-templates.php:277
+msgid "14 columns of grid"
+msgstr ""
+
+#: ../framework/builder/rc-templates/skt-col-templates.php:293
+msgid "Span15"
+msgstr ""
+
+#: ../framework/builder/rc-templates/skt-col-templates.php:294
+msgid "15 columns of grid"
+msgstr ""
+
+#: ../framework/builder/rc-templates/skt-row-templates.php:60
+msgid "3 1/3 columns"
+msgstr ""
+
+#: ../framework/builder/rc-templates/skt-row-templates.php:81
+msgid "4 1/4 columns"
+msgstr ""
+
+#: ../framework/builder/rc-templates/skt-row-templates.php:102
+msgid "1/8"
+msgstr ""
+
+#: ../framework/builder/rc-templates/skt-row-templates.php:103
+msgid "8 1/8 columns"
+msgstr ""
+
+#: ../framework/builder/rc-templates/skt-row-templates.php:128
+msgid "Left Sidebar"
+msgstr ""
+
+#: ../framework/builder/rc-templates/skt-row-templates.php:148
+msgid "Right Sidebar"
+msgstr ""
+
+#: ../framework/classes/class-api.php:270
+msgid "Failed: Invalid URL Provided"
+msgstr ""
+
+#: ../framework/classes/class-api.php:272
+#, php-format
+msgid "Failed: %s"
+msgstr ""
+
+#: ../framework/classes/class-api.php:288
+msgid "Failed: Incompatible archive"
+msgstr ""
+
+#: ../framework/classes/class-api.php:291
+msgid "Failed: Empty Archive"
+msgstr ""
+
+#: ../framework/classes/class-api.php:294
+msgid "Failed: mkdir Failure"
+msgstr ""
+
+#: ../framework/classes/class-api.php:297
+msgid "Failed: Copy Failed"
+msgstr ""
+
+#: ../framework/classes/class-api.php:303
+msgid "New framework successfully downloaded, extracted and updated."
+msgstr ""
+
+#: ../framework/classes/class-custom-post-type.php:125
+#: ../framework/classes/class-custom-post-type.php:200
+#, php-format
+msgid "Add New %s"
+msgstr ""
+
+#: ../framework/classes/class-custom-post-type.php:126
+#: ../framework/classes/class-custom-post-type.php:198
+#, php-format
+msgid "Edit %s"
+msgstr ""
+
+#: ../framework/classes/class-custom-post-type.php:127
+#, php-format
+msgid "New %s"
+msgstr ""
+
+#: ../framework/classes/class-custom-post-type.php:128
+#: ../framework/classes/class-custom-post-type.php:195
+#, php-format
+msgid "All %s"
+msgstr ""
+
+#: ../framework/classes/class-custom-post-type.php:129
+#, php-format
+msgid "View %s"
+msgstr ""
+
+#: ../framework/classes/class-custom-post-type.php:130
+#: ../framework/classes/class-custom-post-type.php:194
+#, php-format
+msgid "Search %s"
+msgstr ""
+
+#: ../framework/classes/class-custom-post-type.php:131
+#, php-format
+msgid "No %s found"
+msgstr ""
+
+#: ../framework/classes/class-custom-post-type.php:132
+#, php-format
+msgid "No %s found in Trash"
+msgstr ""
+
+#: ../framework/classes/class-custom-post-type.php:196
+#, php-format
+msgid "Parent %s"
+msgstr ""
+
+#: ../framework/classes/class-custom-post-type.php:197
+#, php-format
+msgid "Parent %s:"
+msgstr ""
+
+#: ../framework/classes/class-custom-post-type.php:199
+#, php-format
+msgid "Update %s"
+msgstr ""
+
+#: ../framework/classes/class-custom-post-type.php:201
+#, php-format
+msgid "New %s Name"
+msgstr ""
+
+#: ../framework/classes/class-tgm-plugin-activation.php:164
+#: ../framework/classes/class-tgm-plugin-activation.php:987
+msgid "Install Required Plugins"
+msgstr ""
+
+#: ../framework/classes/class-tgm-plugin-activation.php:165
+#: ../framework/classes/class-tgm-plugin-activation.php:988
+msgid "Install Plugins"
+msgstr ""
+
+#: ../framework/classes/class-tgm-plugin-activation.php:166
+#: ../framework/classes/class-tgm-plugin-activation.php:989
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: ../framework/classes/class-tgm-plugin-activation.php:167
+msgid "Something went wrong."
+msgstr ""
+
+#: ../framework/classes/class-tgm-plugin-activation.php:178
+#: ../framework/classes/class-tgm-plugin-activation.php:490
+#: ../framework/classes/class-tgm-plugin-activation.php:1001
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../framework/classes/class-tgm-plugin-activation.php:179
+#: ../framework/classes/class-tgm-plugin-activation.php:1002
+#: ../framework/classes/class-tgm-plugin-activation.php:1881
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../framework/classes/class-tgm-plugin-activation.php:180
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: ../framework/classes/class-tgm-plugin-activation.php:517
+#: ../framework/classes/class-tgm-plugin-activation.php:2093
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: ../framework/classes/class-tgm-plugin-activation.php:545
+#, php-format
+msgid "The following plugin was activated successfully: %s."
+msgstr ""
+
+#: ../framework/classes/class-tgm-plugin-activation.php:704
+msgid "Dismiss this notice"
+msgstr ""
+
+#: ../framework/classes/class-tgm-plugin-activation.php:990
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: ../framework/classes/class-tgm-plugin-activation.php:1003
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: ../framework/classes/class-tgm-plugin-activation.php:1126
+msgid "External Link"
+msgstr ""
+
+#: ../framework/classes/class-tgm-plugin-activation.php:1131
+msgid "Private Repository"
+msgstr ""
+
+#: ../framework/classes/class-tgm-plugin-activation.php:1134
+msgid "Pre-Packaged"
+msgstr ""
+
+#: ../framework/classes/class-tgm-plugin-activation.php:1138
+msgid "WordPress Repository"
+msgstr ""
+
+#: ../framework/classes/class-tgm-plugin-activation.php:1141
+msgid "Required"
+msgstr ""
+
+#: ../framework/classes/class-tgm-plugin-activation.php:1141
+msgid "Recommended"
+msgstr ""
+
+#: ../framework/classes/class-tgm-plugin-activation.php:1144
+msgid "Not Installed"
+msgstr ""
+
+#: ../framework/classes/class-tgm-plugin-activation.php:1146
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: ../framework/classes/class-tgm-plugin-activation.php:1316
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: ../framework/classes/class-tgm-plugin-activation.php:1332
+msgid "Plugin"
+msgstr ""
+
+#: ../framework/classes/class-tgm-plugin-activation.php:1333
+msgid "Source"
+msgstr ""
+
+#: ../framework/classes/class-tgm-plugin-activation.php:1335
+msgid "Status"
+msgstr ""
+
+#: ../framework/classes/class-tgm-plugin-activation.php:1353
+msgid "Install"
+msgstr ""
+
+#: ../framework/classes/class-tgm-plugin-activation.php:1354
+msgid "Activate"
+msgstr ""
+
+#: ../framework/classes/class-tgm-plugin-activation.php:1579
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../framework/classes/class-tgm-plugin-activation.php:1864
+msgid "Install package not available."
+msgstr ""
+
+#: ../framework/classes/class-tgm-plugin-activation.php:1865
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: ../framework/classes/class-tgm-plugin-activation.php:1866
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: ../framework/classes/class-tgm-plugin-activation.php:1867
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: ../framework/classes/class-tgm-plugin-activation.php:1868
+msgid "Plugin install failed."
+msgstr ""
+
+#: ../framework/classes/class-tgm-plugin-activation.php:1869
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: ../framework/classes/class-tgm-plugin-activation.php:1880
+msgid "Plugin activation failed."
+msgstr ""
+
+#: ../framework/classes/class-tgm-plugin-activation.php:1990
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: ../framework/classes/class-tgm-plugin-activation.php:1991
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: ../framework/classes/class-tgm-plugin-activation.php:1991
+#: ../framework/classes/class-tgm-plugin-activation.php:2000
+msgid "Show Details"
+msgstr ""
+
+#: ../framework/classes/class-tgm-plugin-activation.php:1991
+#: ../framework/classes/class-tgm-plugin-activation.php:2000
+msgid "Hide Details"
+msgstr ""
+
+#: ../framework/classes/class-tgm-plugin-activation.php:1992
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: ../framework/classes/class-tgm-plugin-activation.php:1993
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../framework/classes/class-tgm-plugin-activation.php:1997
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: ../framework/classes/class-tgm-plugin-activation.php:1998
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: ../framework/classes/class-tgm-plugin-activation.php:1999
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: ../framework/classes/class-tgm-plugin-activation.php:2000
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: ../framework/classes/class-tgm-plugin-activation.php:2001
+msgid "All installations have been completed."
+msgstr ""
+
+#: ../framework/classes/class-tgm-plugin-activation.php:2002
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../framework/classes/class-theme-updater.php:39
+#, php-format
+msgid "Failed: Filesystem preventing downloads. (%s)"
+msgstr ""
+
+#: ../framework/classes/class-theme-updater.php:60
+msgid "New version successfully downloaded, extracted and updated."
+msgstr ""
+
+#: ../framework/classes/class-theme-verifier.php:49
+#: ../framework/classes/class-theme-verifier.php:86
+msgid "Theme Verification Error"
+msgstr ""
+
+#: ../framework/classes/class-theme-verifier.php:54
+msgid "Enter envato marketplace username to verify."
+msgstr ""
+
+#: ../framework/classes/class-theme-verifier.php:57
+msgid "Enter item purchase code to verify."
+msgstr ""
+
+#: ../framework/classes/class-theme-verifier.php:76
+msgid "Redirecting..."
+msgstr ""
+
+#: ../framework/classes/wordpress-importer/parsers.php:42
+#: ../framework/classes/wordpress-importer/parsers.php:72
+#: ../framework/classes/wordpress-importer/parsers.php:80
+msgid "There was an error when reading this WXR file"
+msgstr ""
+
+#: ../framework/classes/wordpress-importer/parsers.php:43
+msgid ""
+"Details are shown above. The importer will now try again with a different "
+"parser..."
+msgstr ""
+
+#: ../framework/classes/wordpress-importer/parsers.php:84
+#: ../framework/classes/wordpress-importer/parsers.php:89
+#: ../framework/classes/wordpress-importer/parsers.php:279
+#: ../framework/classes/wordpress-importer/parsers.php:468
+msgid ""
+"This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+
+#: ../framework/classes/wordpress-importer/wordpress-importer.php:134
+#: ../framework/classes/wordpress-importer/wordpress-importer.php:143
+#: ../framework/classes/wordpress-importer/wordpress-importer.php:194
+#: ../framework/classes/wordpress-importer/wordpress-importer.php:198
+#: ../framework/classes/wordpress-importer/wordpress-importer.php:207
+msgid "Sorry, there has been an error."
+msgstr ""
+
+#: ../framework/classes/wordpress-importer/wordpress-importer.php:135
+msgid "The file does not exist, please try again."
+msgstr ""
+
+#: ../framework/classes/wordpress-importer/wordpress-importer.php:178
+msgid "All done."
+msgstr ""
+
+#: ../framework/classes/wordpress-importer/wordpress-importer.php:178
+msgid "Have fun!"
+msgstr ""
+
+#: ../framework/classes/wordpress-importer/wordpress-importer.php:179
+msgid "Remember to update the passwords and roles of imported users."
+msgstr ""
+
+#: ../framework/classes/wordpress-importer/wordpress-importer.php:199
+#, php-format
+msgid ""
+"The export file could not be found at <code>%s</code>. It is likely that "
+"this was caused by a permissions problem."
+msgstr ""
+
+#: ../framework/classes/wordpress-importer/wordpress-importer.php:215
+#, php-format
+msgid ""
+"This WXR file (version %s) may not be supported by this version of the "
+"importer. Please consider updating."
+msgstr ""
+
+#: ../framework/classes/wordpress-importer/wordpress-importer.php:240
+#, php-format
+msgid ""
+"Failed to import author %s. Their posts will be attributed to the current "
+"user."
+msgstr ""
+
+#: ../framework/classes/wordpress-importer/wordpress-importer.php:266
+msgid "Assign Authors"
+msgstr ""
+
+#: ../framework/classes/wordpress-importer/wordpress-importer.php:267
+msgid ""
+"To make it easier for you to edit and save the imported content, you may "
+"want to reassign the author of the imported item to an existing user of this "
+"site. For example, you may want to import all the entries as <code>admin</"
+"code>s entries."
+msgstr ""
+
+#: ../framework/classes/wordpress-importer/wordpress-importer.php:269
+#, php-format
+msgid ""
+"If a new user is created by WordPress, a new password will be randomly "
+"generated and the new user&#8217;s role will be set as %s. Manually changing "
+"the new user&#8217;s details will be necessary."
+msgstr ""
+
+#: ../framework/classes/wordpress-importer/wordpress-importer.php:279
+msgid "Import Attachments"
+msgstr ""
+
+#: ../framework/classes/wordpress-importer/wordpress-importer.php:282
+msgid "Download and import file attachments"
+msgstr ""
+
+#: ../framework/classes/wordpress-importer/wordpress-importer.php:299
+msgid "Import author:"
+msgstr ""
+
+#: ../framework/classes/wordpress-importer/wordpress-importer.php:310
+msgid "or create new user with login name:"
+msgstr ""
+
+#: ../framework/classes/wordpress-importer/wordpress-importer.php:313
+msgid "as a new user:"
+msgstr ""
+
+#: ../framework/classes/wordpress-importer/wordpress-importer.php:321
+msgid "assign posts to an existing user:"
+msgstr ""
+
+#: ../framework/classes/wordpress-importer/wordpress-importer.php:323
+msgid "or assign posts to an existing user:"
+msgstr ""
+
+#: ../framework/classes/wordpress-importer/wordpress-importer.php:324
+msgid "- Select -"
+msgstr ""
+
+#: ../framework/classes/wordpress-importer/wordpress-importer.php:374
+#, php-format
+msgid ""
+"Failed to create new user for %s. Their posts will be attributed to the "
+"current user."
+msgstr ""
+
+#: ../framework/classes/wordpress-importer/wordpress-importer.php:425
+#, php-format
+msgid "Failed to import category %s"
+msgstr ""
+
+#: ../framework/classes/wordpress-importer/wordpress-importer.php:465
+#, php-format
+msgid "Failed to import post tag %s"
+msgstr ""
+
+#: ../framework/classes/wordpress-importer/wordpress-importer.php:511
+#: ../framework/classes/wordpress-importer/wordpress-importer.php:652
+#, php-format
+msgid "Failed to import %s %s"
+msgstr ""
+
+#: ../framework/classes/wordpress-importer/wordpress-importer.php:537
+#, php-format
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr ""
+
+#: ../framework/classes/wordpress-importer/wordpress-importer.php:559
+#, php-format
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr ""
+
+#: ../framework/classes/wordpress-importer/wordpress-importer.php:618
+#, php-format
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr ""
+
+#: ../framework/classes/wordpress-importer/wordpress-importer.php:783
+msgid "Menu item skipped due to missing menu slug"
+msgstr ""
+
+#: ../framework/classes/wordpress-importer/wordpress-importer.php:790
+#, php-format
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr ""
+
+#: ../framework/classes/wordpress-importer/wordpress-importer.php:853
+msgid "Fetching attachments is not enabled"
+msgstr ""
+
+#: ../framework/classes/wordpress-importer/wordpress-importer.php:866
+msgid "Invalid file type"
+msgstr ""
+
+#: ../framework/classes/wordpress-importer/wordpress-importer.php:910
+msgid "Remote server did not respond"
+msgstr ""
+
+#: ../framework/classes/wordpress-importer/wordpress-importer.php:916
+#, php-format
+msgid "Remote server returned error response %1$d %2$s"
+msgstr ""
+
+#: ../framework/classes/wordpress-importer/wordpress-importer.php:923
+msgid "Remote file is incorrect size"
+msgstr ""
+
+#: ../framework/classes/wordpress-importer/wordpress-importer.php:928
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: ../framework/classes/wordpress-importer/wordpress-importer.php:934
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: ../framework/classes/wordpress-importer/wordpress-importer.php:1033
+msgid "Import WordPress"
+msgstr ""
+
+#: ../framework/classes/wordpress-importer/wordpress-importer.php:1040
+#, php-format
+msgid ""
+"A new version of this importer is available. Please update to version %s to "
+"ensure compatibility with newer export files."
+msgstr ""
+
+#: ../framework/classes/wordpress-importer/wordpress-importer.php:1055
+msgid ""
+"Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import "
+"the posts, pages, comments, custom fields, categories, and tags into this "
+"site."
+msgstr ""
+
+#: ../framework/classes/wordpress-importer/wordpress-importer.php:1056
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr ""
+
+#: ../framework/utilities/options_settings.php:336
+msgid "linear"
+msgstr ""
+
+#: ../framework/utilities/options_settings.php:337
+msgid "jswing"
+msgstr ""
+
+#: ../framework/utilities/options_settings.php:338
+msgid "def"
+msgstr ""
+
+#: ../framework/utilities/options_settings.php:339
+msgid "easeInQuad"
+msgstr ""
+
+#: ../framework/utilities/options_settings.php:340
+msgid "easeOutQuad"
+msgstr ""
+
+#: ../framework/utilities/options_settings.php:341
+msgid "easeInOutQuad"
+msgstr ""
+
+#: ../framework/utilities/options_settings.php:342
+msgid "easeInCubic"
+msgstr ""
+
+#: ../framework/utilities/options_settings.php:343
+msgid "easeOutCubic"
+msgstr ""
+
+#: ../framework/utilities/options_settings.php:344
+msgid "easeInOutCubic"
+msgstr ""
+
+#: ../framework/utilities/options_settings.php:345
+msgid "easeInQuart"
+msgstr ""
+
+#: ../framework/utilities/options_settings.php:346
+msgid "easeOutQuart"
+msgstr ""
+
+#: ../framework/utilities/options_settings.php:347
+msgid "easeInOutQuart"
+msgstr ""
+
+#: ../framework/utilities/options_settings.php:348
+msgid "easeInQuint"
+msgstr ""
+
+#: ../framework/utilities/options_settings.php:349
+msgid "easeOutQuint"
+msgstr ""
+
+#: ../framework/utilities/options_settings.php:350
+msgid "easeInOutQuint"
+msgstr ""
+
+#: ../framework/utilities/options_settings.php:351
+msgid "easeInSine"
+msgstr ""
+
+#: ../framework/utilities/options_settings.php:352
+msgid "easeOutSine"
+msgstr ""
+
+#: ../framework/utilities/options_settings.php:353
+msgid "easeInOutSine"
+msgstr ""
+
+#: ../framework/utilities/options_settings.php:354
+msgid "easeInExpo"
+msgstr ""
+
+#: ../framework/utilities/options_settings.php:355
+msgid "easeOutExpo"
+msgstr ""
+
+#: ../framework/utilities/options_settings.php:356
+msgid "easeInOutExpo"
+msgstr ""
+
+#: ../framework/utilities/options_settings.php:357
+msgid "easeInCirc"
+msgstr ""
+
+#: ../framework/utilities/options_settings.php:358
+msgid "easeOutCirc"
+msgstr ""
+
+#: ../framework/utilities/options_settings.php:359
+msgid "easeInOutCirc"
+msgstr ""
+
+#: ../framework/utilities/options_settings.php:360
+msgid "easeInElastic"
+msgstr ""
+
+#: ../framework/utilities/options_settings.php:361
+msgid "easeOutElastic"
+msgstr ""
+
+#: ../framework/utilities/options_settings.php:362
+msgid "easeInOutElastic"
+msgstr ""
+
+#: ../framework/utilities/options_settings.php:363
+msgid "easeInBack"
+msgstr ""
+
+#: ../framework/utilities/options_settings.php:364
+msgid "easeOutBack"
+msgstr ""
+
+#: ../framework/utilities/options_settings.php:365
+msgid "easeInOutBack"
+msgstr ""
+
+#: ../framework/utilities/options_settings.php:366
+msgid "easeInBounce"
+msgstr ""
+
+#: ../framework/utilities/options_settings.php:367
+msgid "easeOutBounce"
+msgstr ""
+
+#: ../framework/utilities/options_settings.php:368
+msgid "easeInOutBounce"
+msgstr ""
+
+#: ../framework/utilities/options_settings.php:375
+msgid "Left"
+msgstr ""
+
+#: ../framework/utilities/options_settings.php:376
+msgid "Right"
+msgstr ""
+
+#: ../framework/utilities/options_settings.php:386
+msgid "URL/Link Setting"
+msgstr ""
+
+#: ../framework/utilities/options_settings.php:391
+#: ../includes/spyropress-settings-theme.php:256
+msgid "Link Text"
+msgstr ""
+
+#: ../framework/utilities/options_settings.php:397
+msgid "URL/Hash"
+msgstr ""
+
+#: ../framework/utilities/options_settings.php:403
+msgid "Link to Post/Page"
+msgstr ""
+
+#: ../framework/utilities/envato/class-envato-protected-api.php:67
+msgid "Please enter your Envato Marketplace Username."
+msgstr ""
+
+#: ../framework/utilities/envato/class-envato-protected-api.php:71
+msgid "Please enter your Envato Marketplace API Key."
+msgstr ""
+
+#: ../framework/utilities/envato/class-envato-protected-api.php:96
+msgid "The API \"set\" is a required parameter."
+msgstr ""
+
+#: ../framework/utilities/envato/class-envato-protected-api.php:167
+msgid "The Envato Marketplace \"item ID\" is a required parameter."
+msgstr ""
+
+#: ../framework/utilities/envato/class-envato-wordpress-theme-upgrader.php:289
+msgid "Downloading upgrade package from the Envato API&#8230;"
+msgstr ""
+
+#: ../framework/utilities/envato/class-envato-wordpress-theme-upgrader.php:300
+msgid "Downloading install package from the Envato API&#8230;"
+msgstr ""
+
+#: ../framework/widgets/spyropress-widget-init.php:260
+msgid "All"
+msgstr ""
+
+#: ../framework/widgets/spyropress-widget-init.php:272
+msgid "Sticky Post"
+msgstr ""
+
+#: ../framework/widgets/spyropress-widget-init.php:276
+msgid "Single Post"
+msgstr ""
+
+#: ../framework/widgets/spyropress-widget-init.php:280
+msgid "Page"
+msgstr ""
+
+#: ../framework/widgets/spyropress-widget-init.php:284
+msgid "Child of Page ID"
+msgstr ""
+
+#: ../framework/widgets/spyropress-widget-init.php:288
+msgid "Post Type"
+msgstr ""
+
+#: ../framework/widgets/spyropress-widget-init.php:292
+#: ../includes/spyropress-settings-theme.php:382
+msgid "Category"
+msgstr ""
+
+#: ../framework/widgets/spyropress-widget-init.php:296
+msgid "Post in Category"
+msgstr ""
+
+#: ../framework/widgets/spyropress-widget-init.php:300
+#: ../includes/spyropress-settings-theme.php:390
+msgid "Tag"
+msgstr ""
+
+#: ../framework/widgets/spyropress-widget-init.php:304
+msgid "Post has Tag"
+msgstr ""
+
+#: ../framework/widgets/spyropress-widget-init.php:308
+msgid "Taxonomy"
+msgstr ""
+
+#: ../framework/widgets/spyropress-widget-init.php:312
+msgid "Post Type Archive"
+msgstr ""
+
+#: ../framework/widgets/spyropress-widget-init.php:316
+#: ../includes/spyropress-settings-theme.php:374
+#: ../includes/spyropress-settings-theme.php:375
+msgid "Blog"
+msgstr ""
+
+#: ../framework/widgets/spyropress-widget-init.php:320
+msgid "Search Results Page"
+msgstr ""
+
+#: ../framework/widgets/spyropress-widget-init.php:324
+msgid "QueryString"
+msgstr ""
+
+#: ../framework/widgets/spyroprss-module-extras.php:4
+msgid "Module Extras:"
+msgstr ""
+
+#: ../framework/widgets/spyroprss-module-extras.php:11
+#: ../framework/widgets/spyroprss-widget-extras.php:9
+msgid "Container ID"
+msgstr ""
+
+#: ../framework/widgets/spyroprss-module-extras.php:15
+#: ../framework/widgets/spyroprss-widget-extras.php:13
+msgid "The ID that is applied to the container."
+msgstr ""
+
+#: ../framework/widgets/spyroprss-module-extras.php:20
+#: ../framework/widgets/spyroprss-widget-extras.php:16
+msgid "Container Class"
+msgstr ""
+
+#: ../framework/widgets/spyroprss-module-extras.php:24
+#: ../framework/widgets/spyroprss-widget-extras.php:20
+msgid "The CssClass that is applied to the container."
+msgstr ""
+
+#: ../framework/widgets/spyroprss-widget-extras.php:4
+msgid "Widget Extras:"
+msgstr ""
+
+#: ../framework/widgets/spyroprss-widget-extras.php:24
+msgid "Visibility"
+msgstr ""
+
+#: ../framework/widgets/spyroprss-widget-extras.php:27
+msgid "Show"
+msgstr ""
+
+#: ../framework/widgets/spyroprss-widget-extras.php:28
+msgid "Do NOT show"
+msgstr ""
+
+#: ../framework/widgets/spyroprss-widget-extras.php:31
+msgid "On"
+msgstr ""
+
+#: ../framework/widgets/spyroprss-widget-extras.php:45
+msgid "Slug/Title/ID"
+msgstr ""
+
+#: ../framework/widgets/spyroprss-widget-extras.php:51
+msgid "Remove Title from Output"
+msgstr ""
+
+#: ../includes/init.php:142
+msgid "Pingback:"
+msgstr ""
+
+#: ../includes/init.php:142
+msgid "Edit"
+msgstr ""
+
+#: ../includes/init.php:155
+msgid "says:"
+msgstr ""
+
+#: ../includes/init.php:158
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: ../includes/init.php:162
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../includes/init.php:172
+msgid "Reply"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:15
+msgid "General Settings"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:22
+#: ../includes/spyropress-settings-theme.php:27
+msgid "Skin"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:31
+msgid "Black"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:36
+msgid "Custom Logo"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:37
+msgid "Upload a logo for your site or specify an image URL directly."
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:43
+msgid "Custom Favicon"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:44
+msgid ""
+"Upload a favicon for your site or specify an icon URL directly.<br/>Accepted "
+"formats: ico, png, gif<br/>Dimension: 16px x 16px."
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:50
+msgid "Apple Touch Icon (small)"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:51
+msgid ""
+"Upload apple favicon.<br/>Accepted formats: png<br/>Dimension: 57px x 57px."
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:57
+msgid "Apple Touch Icon (medium)"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:58
+msgid ""
+"Upload apple favicon.<br/>Accepted formats: png<br/>Dimension: 72px x 72px."
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:64
+msgid "Apple Touch Icon (large)"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:65
+msgid ""
+"Upload apple favicon.<br/>Accepted formats: png<br/>Dimension: 114px x 114px."
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:71
+msgid "Goto Top"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:75
+msgid "Disable go to top button"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:80
+msgid "Slider Settings"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:85
+msgid "Slides"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:91
+msgid "Caption "
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:106
+msgid "Tracking Code"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:108
+msgid ""
+"Paste your Google Analytics (or other) tracking code here. This will be "
+"added into the footer template of your theme."
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:119
+msgid "Custom CSS"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:134
+msgid "Footer Customization"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:141
+msgid "Copyright"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:147
+msgid "Social Title"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:154
+msgid "Social icons"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:160
+msgid "URL"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:166
+msgid "Network"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:170
+#: ../templates/footer-content.php:9
+msgid "Dribbble"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:172
+#: ../templates/footer-content.php:11
+msgid "Flickr"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:173
+#: ../templates/footer-content.php:12
+msgid "Google Plus"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:175
+#: ../templates/footer-content.php:14
+msgid "Pinterest"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:176
+#: ../templates/footer-content.php:15
+msgid "RSS"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:178
+#: ../templates/footer-content.php:17
+msgid "Vimeo"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:179
+#: ../templates/footer-content.php:18
+msgid "Youtube"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:190
+msgid "Post Options"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:197
+msgid "Excerpt Settings"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:202
+msgid "Length by"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:207
+msgid "Words"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:208
+msgid "Character"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:214
+msgid "Length"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:215
+msgid "Set the length of excerpt."
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:222
+msgid "Ellipsis"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:223
+#: ../includes/spyropress-settings-theme.php:231
+#: ../includes/spyropress-settings-theme.php:239
+msgid "This is the description field, again good for additional info."
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:230
+msgid "Before Text"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:238
+msgid "After Text"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:246
+msgid "Read More"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:250
+msgid "Enable or disable Read more link."
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:257
+msgid "A text for Read More button."
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:260
+msgid "Continue Reading.."
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:264
+msgid "Author Box"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:269
+msgid "A box to display about author."
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:273
+msgid "Disable author box."
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:279
+msgid "Author Title"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:280
+msgid "Write the title."
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:283
+msgid "About the Author"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:291
+msgid "Translate"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:298
+msgid "General"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:303
+msgid ""
+"Turn it off if you want to use .mo .po files for more complex translation."
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:307
+msgid "Enable Translate"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:314
+msgid "Breadcrumb and Menu"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:321
+#: ../templates/header-content.php:46
+msgid "Menu"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:322
+msgid "Responsive Menu"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:329
+msgid "Search Placeholder"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:330
+msgid "Search widget"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:337
+msgid "Search Button"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:338
+msgid "Search widget button"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:345
+msgid "Blog & Archives"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:353
+msgid "Text to display when there is one comment"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:361
+msgid "Text to display when there are more than one comments"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:368
+msgid "Comments closed"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:369
+msgid "Text to display when comments are disabled"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:383
+#: ../includes/spyropress-settings-theme.php:391
+#: ../includes/spyropress-settings-theme.php:399
+#: ../includes/spyropress-settings-theme.php:407
+#: ../includes/spyropress-settings-theme.php:415
+#: ../includes/spyropress-settings-theme.php:422
+#: ../includes/spyropress-settings-theme.php:423
+msgid "Archive"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:398
+msgid "Day"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:406
+msgid "Month"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:414
+msgid "Year"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:430
+msgid "Search"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:431
+msgid "Search result page"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:451
+msgid "Subtitle"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:452
+msgid "We are sorry, but the page you are looking for does not exist."
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:459
+msgid "Text"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:460
+msgid "Please check entered address and try again or"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:467
+msgid "Button"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:468
+msgid "Go To Homepage button"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:479
+msgid "Settings"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:486
+msgid "Email Settings"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:491
+msgid "Sender Name"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:492
+msgid "For example sender name is \"WordPress\"."
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:498
+msgid "Sender Email Address"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:499
+msgid "For example sender email address is wordpress@yoursite.com."
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:505
+msgid "Twitter oAuth Settings"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:507
+msgid ""
+"<a href=\"https://dev.twitter.com/apps\" target=\"_blank\">Create an "
+"Application on Twitter</a>, once your application is created Twitter will "
+"generate your Oauth key and access tokens. Paste them below."
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:511
+msgid "Twitter Username"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:517
+msgid "Consumer Key"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:523
+msgid "Consumer Secret"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:529
+msgid "Access Token"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:535
+msgid "Access Token Secret"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:541
+msgid "WP-Pagenavi"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:546
+msgid "Text For Number Of Pages"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:549
+msgid "The current page number."
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:550
+#: ../includes/spyropress-settings-theme.php:574
+#: ../includes/spyropress-settings-theme.php:582
+msgid "The total number of pages."
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:551
+#: ../includes/components/pagination.php:16
+msgid "Page %CURRENT_PAGE% of %TOTAL_PAGES%"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:555
+msgid "Text For Current Page"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:558
+#: ../includes/spyropress-settings-theme.php:566
+msgid "The page number."
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:563
+msgid "Text For Page"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:571
+msgid "Text For First Page"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:575
+#: ../includes/components/pagination.php:19
+msgid "&laquo; First"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:579
+msgid "Text For Last Page"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:583
+#: ../includes/components/pagination.php:20
+msgid "Last &raquo;"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:587
+msgid "Text For Previous Page"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:590
+#: ../includes/components/pagination.php:21
+msgid "&laquo;"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:594
+msgid "Text For Next Page"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:597
+#: ../includes/components/pagination.php:22
+msgid "&raquo;"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:601
+msgid "Text For Previous &hellip;"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:604
+#: ../includes/spyropress-settings-theme.php:611
+#: ../includes/components/pagination.php:23
+#: ../includes/components/pagination.php:24
+msgid "&hellip;"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:608
+msgid "Text For Next &hellip;"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:615
+msgid "Page Navigation Text"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:617
+msgid "Leaving a field blank will hide that part of the navigation."
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:621
+msgid "Always Show Page Navigation"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:625
+msgid "Show navigation even if there's only one page."
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:630
+msgid "Number Of Pages To Show"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:637
+msgid "Number Of Larger Page Numbers To Show"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:640
+msgid ""
+"Larger page numbers are in addition to the normal page numbers. They are "
+"useful when there are many pages of posts."
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:645
+msgid "Show Larger Page Numbers In Multiples Of"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:648
+msgid "For example, if mutiple is 5, it will show: 5, 10, 15, 20, 25"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:667
+msgid "Import / Export"
+msgstr ""
+
+#: ../includes/spyropress-settings-theme.php:689
+msgid "Support"
+msgstr ""
+
+#: ../includes/components/bucket/bucket-init.php:37
+msgid ""
+"Display bucket anywhere into your posts, pages, custom post types or widgets "
+"by using the shortcode below:"
+msgstr ""
+
+#: ../includes/components/bucket/module/bucket.php:18
+msgid "A list of partial layouts created using Template Builder."
+msgstr ""
+
+#: ../includes/components/bucket/module/bucket.php:20
+msgid "Bucket"
+msgstr ""
+
+#: ../includes/components/bucket/module/bucket.php:30
+msgid "Buckets"
+msgstr ""
+
+#: ../includes/components/bucket/module/bucket.php:31
+msgid "Partial Layout created using Template Builder."
+msgstr ""
+
+#: ../includes/widgets/text/text.php:21
+msgid "Display static text and photo."
+msgstr ""
+
+#: ../includes/widgets/text/text.php:23
+msgid "Spyropress: Text & Photo"
+msgstr ""
+
+#: ../includes/widgets/text/text.php:48
+msgid "Automatically add paragraphs"
+msgstr ""
+
+#: ../includes/widgets/text/text.php:61
+msgid "Photo"
+msgstr ""
+
+#: ../includes/widgets/text/text.php:67
+msgid "Image Photo Width"
+msgstr ""
+
+#: ../includes/widgets/text/text.php:74
+msgid "Align Photo"
+msgstr ""
+
+#: ../templates/archive-title.php:4
+msgid "<span>Our</span> Blog"
+msgstr ""
+
+#: ../templates/archive-title.php:5
+#, php-format
+msgid "<span>Category:</span> %s"
+msgstr ""
+
+#: ../templates/archive-title.php:6
+#, php-format
+msgid "<span>Tag:</span> %s"
+msgstr ""
+
+#: ../templates/archive-title.php:7
+#, php-format
+msgid "<span>Daily:</span> %s"
+msgstr ""
+
+#: ../templates/archive-title.php:8
+#, php-format
+msgid "<span>Monthly:</span> %s"
+msgstr ""
+
+#: ../templates/archive-title.php:9
+#, php-format
+msgid "<span>Yearly:</span> %s"
+msgstr ""
+
+#: ../templates/archive-title.php:10
+msgid "Archives"
+msgstr ""
+
+#: ../templates/archive-title.php:21
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: ../templates/archive-title.php:23
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: ../templates/formats/content-audio.php:5
+#: ../templates/formats/content-gallery.php:5
+#: ../templates/formats/content-image.php:5
+#: ../templates/formats/content-link.php:5
+#: ../templates/formats/content-video.php:5 ../templates/formats/content.php:5
+#, php-format
+msgid "By %s in %s"
+msgstr ""
