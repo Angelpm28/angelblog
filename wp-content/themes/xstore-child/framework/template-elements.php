@@ -252,8 +252,10 @@ if(!function_exists('etheme_byline')) {
                         }
                      ?>
     	        <?php elseif(etheme_get_option('blog_byline') && etheme_get_option('blog_layout') == 'timeline'): ?>
-                    <?php esc_html_e('Posted by', 'xstore');?> <?php the_author_posts_link(); ?>
+                   <!--
+                    <?php //esc_html_e('Posted by', 'xstore');?> <?php //the_author_posts_link(); ?>
                      <span class="meta-divider">/</span>
+                     -->
                      <?php if (etheme_get_option('views_counter')): ?>
                         <span class="views-count"><?php echo  $views; ?></span>
                      <?php endif ?>
